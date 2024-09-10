@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,PriceCategory
+1,"Running Shoes",Sports,High
+2,"Fitness Tracker",Sports,Medium
+3,"Yoga Mat",Sports,High
+4,Dumbbells,Sports,Low
+5,"Soccer Ball",Sports,Low
+6,"Tennis Racket",Sports,Low
+7,Basketball,Sports,High
+8,"Football Helmet",Sports,Low
+9,"Baseball Glove",Sports,High
+10,"Golf Clubs",Sports,Medium
+11,"Ski Boots",Sports,High
+12,"Ice Skates",Sports,Low
+13,"Swim Goggles",Sports,Medium
+14,"Cycling Helmet",Sports,High
+15,"Climbing Rope",Sports,High
+16,Kayak,Sports,High
+17,Surfboard,Sports,High
+18,Volleyball,Sports,Low
+19,"Hockey Stick",Sports,Medium
+20,"Boxing Gloves",Sports,High
