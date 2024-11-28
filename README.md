@@ -123,7 +123,7 @@ The presence of mixed positive and negative sentiments indicated that there are 
 3. Advanced Excel
 4. PowerBi
 5. Natural Language Processing (NLP)
-6. Poverpoint
+6. Powerpoint
 7. statistical Analysis
 
 
